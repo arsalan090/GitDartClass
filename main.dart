@@ -66,32 +66,32 @@ temp 10-20 then Cold weather
 temp 20-30 then Normal in Temp
 temp 30-40 then Its Hot
 temp >=40 then Its Very Hot */
-  print("TASK# 5");
-  num temp = 42;
+  // print("TASK# 5");
+  // num temp = 42;
 
-  if(temp <= 0){
-    print("Freezing weather\n");
-  }
+  // if(temp <= 0){
+  //   print("Freezing weather\n");
+  // }
 
-  else if(temp > 0  && temp <= 10){
-    print("Very Cold weather\n");
-  }
+  // else if(temp > 0  && temp <= 10){
+  //   print("Very Cold weather\n");
+  // }
 
-  else if(temp > 10 && temp <= 20){
-    print("Cold weather\n");
-  }
+  // else if(temp > 10 && temp <= 20){
+  //   print("Cold weather\n");
+  // }
 
-  else if(temp > 20 && temp <= 30){
-    print("Normal temperature\n");
-  }
+  // else if(temp > 20 && temp <= 30){
+  //   print("Normal temperature\n");
+  // }
 
-  else if(temp > 30 && temp <= 40){
-    print("Its Hot\n");
-  }
+  // else if(temp > 30 && temp <= 40){
+  //   print("Its Hot\n");
+  // }
 
-  else{
-    print("Its very Hot\n");
-  }
+  // else{
+  //   print("Its very Hot\n");
+  // }
 
 /* Q.6: Write a program to check whether an alphabet is a vowel or consonant.*/
   print("TASK# 6");
